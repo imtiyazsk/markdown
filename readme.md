@@ -42,3 +42,17 @@ VALUES
 
 ## SaddamHussein
 
+![SaddamHussein](https://image.cnbcfm.com/api/v1/image/100988129-807741_r.jpg?v=1532564639)
+
+## My Self 
+
+
+I am living in [Guntur](https://www.tripadvisor.in/Attractions-g12421913-Activities-Guntur_District_Andhra_Pradesh.html), AP, INDIA 
+
+- Name: *IMTIYAZ*
+- City: _Guntur_
+- Designation: *FrontEnd_Developer*
+- GitHub Profile: https://github.com/imtiyazsk
+- [GitHub Repositories](https://github.com/imtiyazsk?tab=repositories)
+- [WebSite]()
+
