@@ -6,7 +6,7 @@ CREATE TABLE Employees (
     "Name"         VARCHAR(20),
     "Age"          INT,
     "Designation"  VARCHAR(35),
-    "Country"         VARCHAR(20),
+    "Country"      VARCHAR(20),
 
 );
 ```
@@ -24,7 +24,6 @@ VALUES
     (6,  "V_Rajesh",         25,  "FullStack_Developer",     "USA"),
     (7,   "R_Ramesh",        26,  "FullStack_Developer",      "UK"),
     (8,  "Shaik_Apsar",      26,  "FullStack_Developer",       "Dubai")
-
     ```
 
  EmployeesData
@@ -39,4 +38,7 @@ VALUES
 | 6|V_Rajesh     | 25  |FullStack_Developer | USA       |
 | 7|R_Ramesh     | 26  |FullStack_Developer | UK        |
 | 8|Shaik_Apsar  | 26  |FullStack_Developer | Dubai     |
+
+
+## SaddamHussein
 
