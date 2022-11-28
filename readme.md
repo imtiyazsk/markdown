@@ -30,7 +30,7 @@ VALUES
 ## EmployeesData
 
 |Id| Name        | Age | Designation        | Country   |
-|--| ----        | --- | -----------        | -------   |
+|--| ---        | --- | -----------        | -------   |
 | 1|Shaik_Imtiyaz| 23  |FrontEnd_Developer  | Palestine |
 | 2|R.Pavan_Kumar| 23  |FullStack_Developer | Bangladesh|
 | 3|Shaik_Zahid  | 23  |BackEnd_Developer   | Australia |
